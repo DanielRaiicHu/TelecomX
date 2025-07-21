@@ -68,7 +68,20 @@ Se incluyen funciones reutilizables para generar todos los gráficos de forma or
 
 ---
 
+## Archivos descargables
+
+Se encuentra disponible un archivo comprimido `.zip` con todos los gráficos exportados del análisis, organizados y listos para utilizarse:  
+📦 **[Descargar gráficos y documento](https://github.com/DanielRaiicHu/TelecomX/raw/main/graficos.zip)**
+
+> Este archivo también contiene una copia del documento en formato Word.
+
+---
+
 ## Conclusión
 
 Este proyecto es una muestra de análisis exploratorio aplicado al sector de telecomunicaciones, con un enfoque práctico y visual orientado a comprender mejor los factores que contribuyen a la pérdida de clientes. Puede servir como base para análisis más profundos o para integrar modelos predictivos en etapas posteriores.
 
+---
+
+**Autor:**  
+Daniel Aranzáez A.
