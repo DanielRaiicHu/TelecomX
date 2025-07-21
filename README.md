@@ -71,7 +71,7 @@ Se incluyen funciones reutilizables para generar todos los gráficos de forma or
 ## Archivos descargables
 
 Se encuentra disponible un archivo comprimido `.zip` con todos los gráficos exportados del análisis, organizados y listos para utilizarse:  
-📦 **[Descargar gráficos y documento](https://github.com/DanielRaiicHu/TelecomX/raw/main/graficos.zip)**
+**[Descargar gráficos y documento](https://github.com/DanielRaiicHu/TelecomX/raw/main/graficos.zip)**
 
 > Este archivo también contiene una copia del documento en formato Word.
 
