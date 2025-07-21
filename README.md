@@ -83,5 +83,6 @@ Este proyecto es una muestra de análisis exploratorio aplicado al sector de tel
 
 ---
 
-**Autor:**  
+## Autor
+
 Daniel Aranzáez A.
